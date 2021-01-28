@@ -1,2 +1,2 @@
-hi there `:wq
+hi there :wq
 is this funny?
