@@ -7,11 +7,5 @@ is this funn y?
 first_commit
 lalala
 git branch
-vibz branch
-<<<<<<< HEAD
-hehegit
-=======
-
-
- constant
->>>>>>> vibz
+temp
+temp
